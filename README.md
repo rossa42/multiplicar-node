@@ -1,4 +1,4 @@
 ## Multiplicar
 
 
-Consola prueba muestr
+Consola prueba muestra
